@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "bs58": "^6.0.0",
+    "ripemd160": "^2.0.2",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/ripemd160": "^2.0.3"
+  }
+}
